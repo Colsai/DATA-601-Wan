@@ -15,10 +15,10 @@ Dataset is free, and publically acessible.
 
 Data Information:
 I have chosen the dataset: https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY1/dw27-rash
-Data Name: "Chicago Public Schools - School Progress Reports SY1819"
-Data Provided by Chicago Public Schools
-last updated November 7, 2019
-Size: 1.8mb / Rows- 654 / Columns - 182
+- Data Name: "Chicago Public Schools - School Progress Reports SY1819"
+- Data Provided by Chicago Public Schools
+- last updated November 7, 2019
+- Size: 1.8mb / Rows- 654 / Columns - 182
 
 Background:
 The educational system has undergone a dramatic change since public schools have been forced to adopt alternative and hybrid models. The Chicago public school system has reopened after a year of at-home education.
