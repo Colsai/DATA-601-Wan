@@ -25,7 +25,7 @@ The educational system has undergone a dramatic change since public schools have
 
 Prior to this dramatic change, the Chicago Public School system has played a dramatic and vital community role for many families. With a student body around 400,000, and employing over 21,000 teachers and 37,000 staff members, the Chicago Public Schools are very important to th (1). 
 
-This is a useful dataset because, although it is specific in scope (only focusing on the Chicago Public School system), it includes a larger list of many different metrics that are helpful for review. 
+This is a useful dataset because, although it is specific in scope (only focusing on the Chicago Public School system), it includes a larger list of many different metrics that are helpful for review. Larger national datasets often lack the number of metrics that this scorecard has.
 
 Focus:
 My general question for focus is: "is education fair in the Chicago Public School system?".
