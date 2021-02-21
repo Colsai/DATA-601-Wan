@@ -25,4 +25,10 @@ The educational system has undergone a dramatic change since public schools have
 
 Prior to this dramatic change, the Chicago Public School system has played a dramatic and vital community role for many families. With a student body around 400,000, and employing over 21,000 teachers and 37,000 staff members, the Chicago Public Schools are very important to th (1). 
 
-https://en.wikipedia.org/wiki/Chicago_Public_Schools
+This is a useful dataset because, although it is specific in scope (only focusing on the Chicago Public School system), it includes a larger list of many different metrics that are helpful for review. 
+
+Focus:
+My general question for focus is: "is education fair in the Chicago Public School system?".
+I intend to look at performance metrics, such as graduation rate, NWEA test scores, PSAT/SAT scores, and attendance rates to look at disparities in educational attainment for students- is there a big difference between the best schools and the worst? What are some of the largest disparities in education? Do magnet schools have vastly better performance metrics than other schools? 
+
+1. https://en.wikipedia.org/wiki/Chicago_Public_Schools
