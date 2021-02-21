@@ -10,9 +10,19 @@
 - project proposal include size of data (rows, columns, megabytes) - 5% of total grade
 - project proposal relevant to Data 601 objectives - 25% of total grade
 
-## Project Proposal #1  
-Providing a strong education for the leaders of tomorrow has been a large-scale goal for many countries.
-For Project 1, my focus will be to analyze an education dataset, and perform exploratory data analysis
-to look for common trends and changes within educational data.
+## Project Proposal for EDA: "Chicago Public Schools: College Scorecard"
+Dataset is free, and publically acessible. 
 
-I have chosen the dataset: 
+Data Information:
+I have chosen the dataset: https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY1/dw27-rash
+Data Name: "Chicago Public Schools - School Progress Reports SY1819"
+Data Provided by Chicago Public Schools
+last updated November 7, 2019
+Size: 1.8mb / Rows- 654 / Columns - 182
+
+Background:
+The educational system has undergone a dramatic change since public schools have been forced to adopt alternative and hybrid models. The Chicago public school system has reopened after a year of at-home education.
+
+Prior to this dramatic change, the Chicago Public School system has played a dramatic and vital community role for many families. With a student body around 400,000, and employing over 21,000 teachers and 37,000 staff members, the Chicago Public Schools are very important to th (1). 
+
+https://en.wikipedia.org/wiki/Chicago_Public_Schools
