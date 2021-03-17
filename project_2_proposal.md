@@ -10,7 +10,7 @@
 - project proposal include size of data (rows, columns, megabytes) - 5% of total grade
 - project proposal relevant to Data 601 objectives - 25% of total grade
 
-## Project Proposal for EDA: "Chicago Public Schools: College Scorecard"
+## Project 2 Proposal "Chicago Public Schools: College Scorecard": Charter vs. Neighborhood Schools and Performance. 
 Datasets are free, and publically acessible. 
 
 ## Project Notes
@@ -34,15 +34,19 @@ https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-
 3. Chicago Public Schools - School Progress Reports SY1516 (670x153)
 https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY1/fvrx-esxp
 
-### Background:
+### Project 2 Background:
 In Project 1, I visualized performance data per school types for High Schools in Chicago.
+I looked at the performance differences between school type. Charter Schools and Neighborhood schools are the highest in number.
+In this second project, I want to focus more on the changes over a period of time for each of the school types. 
 
+### Project 2 Primary Questions
 For Project 2, I want to focus on answering three primary questions:
 - Over the past four years, is student performance better (SAT scores, College Graduation Rates, etc.) than at charter schools?
 - What are the rates of change for both neighborhood and charter schools in Chicago? Which school type as a better rate of change?
 - Are these advantages by schools significant?
 
-### My hypotheses will be as follows:
+### Project 2 Hypotheses  
+My hypotheses will be as follows:
 1. Chicago charter schools have a small academic advantage over neighborhood public schools in the city of Chicago. 
 2. Charter schools have experienced slightly higher rates of improvement/overall change in the past 4 years.
 3. While there are small performance advantages in several metrics for charter schools, there will be some metrics in which
@@ -50,15 +54,14 @@ neighborhood public schools in Chicago have experienced improved/greater rates o
 
 ### About the Dataset:
 As with project 1, I will focus on Chicago Public School data that is public. These are SY15-16 thru SY18-19, which I am planning 
-to merge. 
+to merge and analyze. 
 
 ### Things I plan to learn:
 - I haven't worked on many projects that merge multiple data sources, so I think that this could be a good opportunity to think about how to merge
 different data sources and focus on a few metrics in order to visualize change over time for school performance data.
 - Practice with visualizations.
 - Summarily answering a question with a 'yes', 'no', or a qualified 'yes- in these ways, no in these-'
+- Reflect on issues that come with trying to merge multiple data sources. 
+
 ### Focus:
 The academics and performance data of charter vs. neighborhood public schools for Chicago Public Schools students. 
-
-1. https://nces.ed.gov/programs/coe/indicator_cmd.asp#:~:text=Norway%20reported%20the%20highest%20total,United%20States%20(6.0%20percent).
-2. https://en.wikipedia.org/wiki/Chicago_Public_Schools
