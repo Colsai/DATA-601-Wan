@@ -9,7 +9,7 @@ In the third project, I want to think past the question of student performance a
 - 2016/2017: https://data.cityofnewyork.us/Education/2016-2017-School-Quality-Report-Results-for-High-S/ewhs-k7um
 - 2017/2018: https://data.cityofnewyork.us/Education/2017-2018-School-Quality-Report-High-School/7c8x-xds8
 
-If I have time... They also have reports from other levels of public schools.
+- As a note, there are other years of data that I would like to include, but they did not begin collecting (and unfortunately stopped reporting on) some specific indicators of student economic backgrounds. If I have time... They also have reports from other levels of public schools.
 
 ## DATA601 Projects:
 - Project 1: EDA analysis on Chicago Public Schools
