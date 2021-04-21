@@ -1,13 +1,16 @@
 # DATA 601 Wan
 ## Project 3 Proposal
-New York Public Schools
-In the third project, I want to think past the question of student performance and look primarily at low-income and poverty indicators.
+New York Public Schools (working alone)
+
+**In the third project, I want to think past the question of student performance and look primarily at low-income and poverty indicators.**
 
 ## Datasets used: (.gov open data)
 - 2014/2015: https://data.cityofnewyork.us/Education/2014-2015-School-Quality-Reports-Results-For-High-/vrfr-9k4d
 - 2015/2016: https://data.cityofnewyork.us/Education/2015-2016-School-Quality-Report-Results-for-High-S/mz5e-yub2
 - 2016/2017: https://data.cityofnewyork.us/Education/2016-2017-School-Quality-Report-Results-for-High-S/ewhs-k7um
 - 2017/2018: https://data.cityofnewyork.us/Education/2017-2018-School-Quality-Report-High-School/7c8x-xds8
+Each Dataset is about 30+ x 495 (495 high schools included).
+
 
 - As a note, there are other years of data that I would like to include, but they did not begin collecting (and unfortunately stopped reporting on) some specific indicators of student economic backgrounds. If I have time... They also have reports from other levels of public schools.
 
