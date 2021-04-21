@@ -3,6 +3,7 @@
 New York Public Schools (working alone)
 
 **In the third project, I want to think past the question of student performance and look primarily at low-income and poverty indicators.**
+**Please let me know if this project does not meet the intended scope of the final project. I can rethink my proposal and either add more data, including elementary schools, etc. or change topics to something else within Education.**
 
 ## Datasets used: (.gov open data)
 - 2014/2015: https://data.cityofnewyork.us/Education/2014-2015-School-Quality-Reports-Results-For-High-/vrfr-9k4d
